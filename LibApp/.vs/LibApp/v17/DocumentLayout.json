@@ -1,0 +1,937 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\controllers\\readingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\controllers\\readingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\controllers\\classsifiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\controllers\\classsifiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtoreturns\\readingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtoreturns\\readingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtoreturns\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtoreturns\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\extentions\\customjwtauthextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\extentions\\customjwtauthextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\lestening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\lestening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtos\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtos\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtos\\dtoclassification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtos\\dtoclassification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\rolename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\rolename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtos\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtos\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\libapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\libapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtos\\dtobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtos\\dtobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\classification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\classification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtos\\dtoclassify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtos\\dtoclassify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\classify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\classify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.api\\libapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CE31641F-A6D5-4C11-8FC1-8AC97455F051}|LibApp.Api\\LibApp.Api.csproj|solutionrelative:libapp.api\\libapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtos\\dtoauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtos\\dtoauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119185951_FinalforTablesMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibApp.EF\\Migrations\\20241119185951_FinalforTablesMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\dtoreturns\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\dtoreturns\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\libapp.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\libapp.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119191429_AddColumnsMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibApp.EF\\Migrations\\20241119191429_AddColumnsMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241119190444_finalfortablesmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241119190444_finalfortablesmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241118192506_readingmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241118192506_readingmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\voice_tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\voice_tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\voice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\voice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241118203919_reviewsmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241118203919_reviewsmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\authorreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\authorreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\authorcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\authorcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\bookcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\bookcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241117200052_classifymig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241117200052_classifymig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117195443_BookMig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibApp.EF\\Migrations\\20241117195443_BookMig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.core\\models\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA67B02E-7B94-4F47-8E63-969032FA848D}|LibApp.Core\\LibApp.Core.csproj|solutionrelative:libapp.core\\models\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241110202554_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241110202554_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241117195143_bookmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241117195143_bookmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241117194357_authormig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241117194357_authormig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241118192028_classificationmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241118192028_classificationmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241119185231_voicetabmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241119185231_voicetabmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241220192843_rolesmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241220192843_rolesmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|c:\\users\\mhammad\\source\\repos\\libapp_back\\libapp\\libapp.ef\\migrations\\20241221180621_addpublishdatetoreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6EEC93-F5CD-40D5-AF5F-E492F9EA8171}|LibApp.EF\\LibApp.EF.csproj|solutionrelative:libapp.ef\\migrations\\20241221180621_addpublishdatetoreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadingsController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\ReadingsController.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Controllers\\ReadingsController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\ReadingsController.cs",
+              "RelativeToolTip": "LibApp.Api\\Controllers\\ReadingsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwD8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:59:59.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasssifiesController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\ClasssifiesController.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Controllers\\ClasssifiesController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\ClasssifiesController.cs",
+              "RelativeToolTip": "LibApp.Api\\Controllers\\ClasssifiesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA3wCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:38:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadingDto.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOReturns\\ReadingDto.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOReturns\\ReadingDto.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOReturns\\ReadingDto.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOReturns\\ReadingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:42:59.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibApp.EF\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAWwDwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:18:43.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\BaseRepository.cs",
+              "RelativeToolTip": "LibApp.EF\\BaseRepository.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAQwOYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:31:09.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tab.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Tab.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Tab.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Tab.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Tab.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:13:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOReturns\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOReturns\\BookDto.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOReturns\\BookDto.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOReturns\\BookDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:24:51.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:48:47.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Program.cs",
+              "RelativeToolTip": "LibApp.Api\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:01:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "LibApp.Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAmwGAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:20:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomJwtAuthExtention.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "RelativeToolTip": "LibApp.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:13:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reading.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Reading.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Reading.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Reading.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Reading.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:52:16.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibApp.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAqwJ8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:24:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241221180621_AddPublishDateToReading.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241221180621_AddPublishDateToReading.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241221180621_AddPublishDateToReading.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241221180621_AddPublishDateToReading.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241221180621_AddPublishDateToReading.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:06:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Book.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Book.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:59:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LibApp.Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LibApp.Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:14:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lestening.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Lestening.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Lestening.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Lestening.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Lestening.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:19:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\UnitOfWork.cs",
+              "RelativeToolTip": "LibApp.EF\\UnitOfWork.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvy8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:25:50.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "LibApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:57:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DtoNewUser.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoNewUser.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOs\\DtoNewUser.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoNewUser.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOs\\DtoNewUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:10.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241220192843_RolesMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241220192843_RolesMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241220192843_RolesMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241220192843_RolesMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241220192843_RolesMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:28:43.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleName.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\RoleName.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\RoleName.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\RoleName.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\RoleName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:18:38.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DtoClassification.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoClassification.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOs\\DtoClassification.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoClassification.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOs\\DtoClassification.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:40:24.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DtoLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoLogin.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOs\\DtoLogin.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoLogin.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOs\\DtoLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:24:49.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:43:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LibApp.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\LibApp.Api.csproj",
+              "RelativeDocumentMoniker": "LibApp.Api\\LibApp.Api.csproj",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\LibApp.Api.csproj",
+              "RelativeToolTip": "LibApp.Api\\LibApp.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T12:34:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibApp.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibApp.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T18:38:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "LibApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\appsettings.json",
+              "RelativeToolTip": "LibApp.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T11:56:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DtoBook.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoBook.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOs\\DtoBook.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoBook.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOs\\DtoBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:29:02.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Classification.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Classification.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Classification.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Classification.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Classification.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:47:12.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Classify.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Classify.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Classify.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Classify.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Classify.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:05:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DtoClassify.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoClassify.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOs\\DtoClassify.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoClassify.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOs\\DtoClassify.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:03:28.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LibApp.Api.http",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\LibApp.Api.http",
+              "RelativeDocumentMoniker": "LibApp.Api\\LibApp.Api.http",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Api\\LibApp.Api.http",
+              "RelativeToolTip": "LibApp.Api\\LibApp.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-10T18:37:47.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "LibApp.Core\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:27:43.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DtoAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoAuthor.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOs\\DtoAuthor.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOs\\DtoAuthor.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOs\\DtoAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:10:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOReturns\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\DTOReturns\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\DTOReturns\\AuthorDto.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\DTOReturns\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:25:32.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241119191429_AddColumnsMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119191429_AddColumnsMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241119191429_AddColumnsMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119191429_AddColumnsMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241119191429_AddColumnsMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:14:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241119185951_FinalforTablesMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119185951_FinalforTablesMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241119185951_FinalforTablesMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119185951_FinalforTablesMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241119185951_FinalforTablesMig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:59:51.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Author.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:53:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LibApp.EF.csproj",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\LibApp.EF.csproj",
+              "RelativeDocumentMoniker": "LibApp.EF\\LibApp.EF.csproj",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\LibApp.EF.csproj",
+              "RelativeToolTip": "LibApp.EF\\LibApp.EF.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T20:18:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241119190444_FinalforTablesMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119190444_FinalforTablesMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241119190444_FinalforTablesMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119190444_FinalforTablesMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241119190444_FinalforTablesMig.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAgwKIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:04:45.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241119185231_VoiceTabMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119185231_VoiceTabMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241119185231_VoiceTabMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241119185231_VoiceTabMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241119185231_VoiceTabMig.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:52:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241118192506_ReadingMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241118192506_ReadingMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241118192506_ReadingMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241118192506_ReadingMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241118192506_ReadingMig.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwD0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:25:08.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Voice.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Voice.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Voice.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Voice.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Voice.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:14:45.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241118203919_ReviewsMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241118203919_ReviewsMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241118203919_ReviewsMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241118203919_ReviewsMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241118203919_ReviewsMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:39:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BookReview.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\BookReview.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\BookReview.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\BookReview.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\BookReview.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:43:59.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Voice_Tab.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Voice_Tab.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Voice_Tab.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Voice_Tab.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Voice_Tab.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:21:14.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthorComment.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\AuthorComment.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\AuthorComment.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\AuthorComment.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\AuthorComment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:15:46.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthorReview.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\AuthorReview.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\AuthorReview.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\AuthorReview.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\AuthorReview.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:30:38.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BookComment.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\BookComment.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\BookComment.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\BookComment.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\BookComment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:08:32.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241118192028_ClassificationMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241118192028_ClassificationMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241118192028_ClassificationMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241118192028_ClassificationMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241118192028_ClassificationMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:20:29.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20241117200052_ClassifyMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117200052_ClassifyMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241117200052_ClassifyMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117200052_ClassifyMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241117200052_ClassifyMig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:00:54.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241117195143_BookMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117195143_BookMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241117195143_BookMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117195143_BookMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241117195143_BookMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:51:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20241117195443_BookMig2.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117195443_BookMig2.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241117195443_BookMig2.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117195443_BookMig2.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241117195443_BookMig2.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:54:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241117194357_authorMig.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117194357_authorMig.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241117194357_authorMig.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241117194357_authorMig.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241117194357_authorMig.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:43:58.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Book_Author.cs",
+              "RelativeDocumentMoniker": "LibApp.Core\\Models\\Book_Author.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.Core\\Models\\Book_Author.cs",
+              "RelativeToolTip": "LibApp.Core\\Models\\Book_Author.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:20:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241110202554_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241110202554_Identity.cs",
+              "RelativeDocumentMoniker": "LibApp.EF\\Migrations\\20241110202554_Identity.cs",
+              "ToolTip": "C:\\Users\\mhammad\\source\\repos\\LibApp_Back\\LibApp\\LibApp.EF\\Migrations\\20241110202554_Identity.cs",
+              "RelativeToolTip": "LibApp.EF\\Migrations\\20241110202554_Identity.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:26:01.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\bin\Debug\net8.0\LibApp.EF.deps.json
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\bin\Debug\net8.0\LibApp.EF.runtimeconfig.json
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\bin\Debug\net8.0\LibApp.EF.dll
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\bin\Debug\net8.0\LibApp.EF.pdb
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\bin\Debug\net8.0\LibApp.Core.dll
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\bin\Debug\net8.0\LibApp.Core.pdb
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.csproj.AssemblyReference.cache
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.AssemblyInfoInputs.cache
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.AssemblyInfo.cs
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.csproj.CoreCompileInputs.cache
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.csproj.Up2Date
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.dll
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\refint\LibApp.EF.dll
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.pdb
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\LibApp.EF.genruntimeconfig.cache
+C:\Users\mhammad\source\repos\LibApp_Back\LibApp\LibApp.EF\obj\Debug\net8.0\ref\LibApp.EF.dll
